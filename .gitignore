@@ -5,3 +5,5 @@ venv/
 *.pt
 __pycache__
 result/
+venv*
+*.whl
